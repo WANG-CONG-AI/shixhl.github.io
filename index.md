@@ -4,8 +4,7 @@
 
 E-mail: 815966145@qq.com.
 
-![image](QQ图片20200721182028.jpg)
-
+<img src="QQ图片20200721182028.jpg" width="20%">
 ### Research Interests
 
 Computer Vision,  Hyperspectral Analysis, Deep Learning, Pattern Recognition
