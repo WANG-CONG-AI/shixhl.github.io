@@ -4,7 +4,7 @@
 
 E-mail: 815966145@qq.com.
 
-![image](https://github.com/shixhl/shixhl.github.io/QQ图片20200721182028.jpg)
+![image](QQ图片20200721182028.jpg)
 
 ### Research Interests
 
