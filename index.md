@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Shi Jiahao's Home Page
 
-You can use the [editor on GitHub](https://github.com/shixhl/shixhl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Shi Jiahao**, Master Student, College of Mechanical and Electronic Engineering, Nanjing Forestry University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E-mail: 815966145@qq.com.
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Computer Vision,  Hyperspectral Analysis, Deep Learning, Pattern Recognition
 
-```markdown
-Syntax highlighted code block
+### Research Achievements
+_专利_
 
-# Header 1
-## Header 2
-### Header 3
+- CN201920419380.0一种基于高光谱技术的胶囊分选装置
+- CN201910087104.3基于深度相机的黑果枸杞分选装置及识别与分类算法
+- CN201920635588.6一种新型甘蔗末梢剪切装置
+- CN201920154780.3一种可拆卸拓展的懒人桌
+- CN201920446020.X一种基于激光散斑的苗木根活力测量装置
+- CN201920154795.X一种基于倒钩凹槽履带的黑枸杞分选机
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### For CV in Papers
+```text
+Shi Jiahao was born in Nantong, Jiangsu, China in 1997. 
+He graduated from Nanjing Forestry University in 2018 and obtained a bachelor's degree in engineering. 
+He is currently pursuing a master's degree at Nanjing Forestry University. 
+His research interests include the application of intelligent algorithms in industry, image data processing and hyperspectral analysis.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shixhl/shixhl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
