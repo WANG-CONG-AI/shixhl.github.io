@@ -2,7 +2,7 @@
 
 **Shi Jiahao**, Master Student, College of Mechanical and Electronic Engineering, Nanjing Forestry University
 
-E-mail: 815966145@qq.com.
+E-mail: jiahaoshixhl@163.com.
 
 <img src="QQ图片20200721182028.jpg" width="20%">
 ### Research Interests
